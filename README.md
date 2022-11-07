@@ -1,5 +1,6 @@
 # lagint
-Multi-dimensional pure python/numpy Lagrange Polynomial Interpolation 
+Multi-dimensional pure python/numpy Lagrange Polynomial Interpolation.
+
 See https://readingclouds.github.io/lagint/ for documentation.
 
 Current version: 0.1.0.
